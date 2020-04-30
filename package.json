@@ -1,0 +1,19 @@
+{
+  "name": "click-outside",
+  "version": "1.0.0",
+  "description": "function to trigger click outside of element",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jp3492/click-outside.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "JP Marks",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
